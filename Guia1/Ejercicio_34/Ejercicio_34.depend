@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1776653902 source:c:\users\aapan\downloads\aylin_paniagua\aylin_paniagua\ejercicio_34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

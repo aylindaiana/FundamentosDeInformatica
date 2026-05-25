@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1776382354 source:c:\users\4d14\desktop\ejercicio_2_guia2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1776644046 source:c:\users\aapan\downloads\aylin_paniagua\aylin_paniagua\ejercicio_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

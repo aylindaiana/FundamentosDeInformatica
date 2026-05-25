@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1776991940 source:c:\users\4d14\desktop\ejercicio_6_guia2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1777259806 source:c:\users\aapan\downloads\aylin_paniagua\guia 2\ejercicio_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
