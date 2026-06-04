@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+int main()
+{
+    /*5. Hacer un programa similar al anterior, pero rellenar el vector con números entre 0 y
+1000. Esta vez, el programa debe imprimir en pantalla todos los números aleatorios e
+informar al final la cantidad de pares menores a 352.*/
+    
+    int numeros[4999];
+    
+    //char texto[50];
+    char nombre[10], apellido[10];
+    //printf("Ingrese su nombre y apellido: ");
+    //gets(texto);
+    printf("Ingrese su nombre: ");
+    gets(nombre);
+    printf("Ingrese su apellido: ");
+    gets(apellido);
+    printf("\n\nHola %s %s, Bienvenido a clase...",  nombre, apellido);
+
+    return 0;
+}
+// Matrices - Arreglo bidimencional
+// 1er indice Fila; 2da indice Columna
+// declaracion ej: int A[5]

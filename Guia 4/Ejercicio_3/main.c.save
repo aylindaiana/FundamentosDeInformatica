@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    /*3. Hacer un programa similar al anterior, pero con un vector de 6 posiciones.*/
+    int numeros[5];
+
+    for(int i=0; i<6;i++){
+        printf("Ingrese un numero en la cifra %d: ", i+1);
+        scanf("%d", &numeros[i]);
+    }
+    if(numeros[0]==numeros[3] && numeros[1]==numeros[2]){
+        printf("Las sifras son capicuas!!");
+    } else {
+        printf("NO son capicuas");
+    }
+    return 0;
+}
+// Para que sirve vectores? Para almacenar de manera eficiente a la memoria.
+// en c solo se puede crear vectores para un solo tipo dato
+// Que es un vectos? un conjunto FINITO y ORDENADO de elementos del MISMO TIPO
