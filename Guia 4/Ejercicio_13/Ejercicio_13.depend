@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1780614550 source:c:\users\aapan\downloads\aylin_paniagua\guia 3\ejercicio_13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1780615034 source:c:\users\aapan\downloads\guia 4\ejercicio_13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

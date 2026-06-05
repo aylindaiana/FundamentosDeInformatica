@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780544645 source:c:\users\aapan\downloads\guia 4\ejercicio_8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
