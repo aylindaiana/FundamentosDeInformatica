@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <ctype.h> // Libreria para poder usar isalpha()
+#include <string.h> // Libreria para strlen ()
 /*14. Hacer un programa que permita ingresar el nombre y apellido de dos personas. Verificar
 si se llaman igual (ya sea de nombre o de apellido). */
 int main(){
@@ -21,9 +22,9 @@ si se llaman igual (ya sea de nombre o de apellido).*/
         printf("Los nombres NO son iguales"); // Informo al usuario
     }
     if(strcmp(apellido1, apellido2)==0){ // Si son iguales tirara cero
-        printf("Los apellidos son iguales"); // Informo al usuario
+        printf("\nLos apellidos son iguales"); // Informo al usuario
     } else {
-        printf("Los apellidos NO son iguales"); // Informo al usuario
+        printf("\nLos apellidos NO son iguales"); // Informo al usuario
     }
     return 0;
 }

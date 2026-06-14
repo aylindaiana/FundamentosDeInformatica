@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1781147054 source:c:\users\aapan\downloads\guia 4\ejercicio_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
