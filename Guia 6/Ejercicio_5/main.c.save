@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h>
+/*5. Hacer un programa que implemente funciones para realizar el cálculo del promedio de
+3 valores del tipo float que son introducidos por teclado.*/
+float calculo_promedio();
+int suma();
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+
+float calculo_promedio(){
+    float numero1, numero2, numero3, suma;
+    float promedio;
+
+    printf("Ingrese el primer numero: ");
+    scanf("%d", &numero1);
+    printf("Ingrese el segundo numero: ");
+    scanf("%d", &numero2);
+    printf("Ingrese el tercer numero: ");
+    scanf("%d", &numero3);
+    suma = 
+}
+int suma(int a, int b, int c){
+
+}
