@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1783912201 source:c:\users\aapan\downloads\practida_2doparcial_fundamentos\tema_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
